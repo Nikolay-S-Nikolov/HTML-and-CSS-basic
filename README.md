@@ -1,2 +1,2 @@
-# HTTP-and-CSS-basic
-HTTP and CSS basic 
+# HTML-and-CSS-basic
+HTML and CSS basic 

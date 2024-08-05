@@ -1,0 +1,13 @@
+main {
+    background-color: #5BC0DE;
+}
+footer {
+    background-color: #5BC0DE;
+}
+ul {
+    margin-bottom: 1px;
+    padding-bottom: 20px;
+}
+body { 
+    max-width: 400px;
+}

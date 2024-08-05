@@ -1,0 +1,27 @@
+
+body {
+    margin-top: 0px;
+}
+
+button {
+    color: white;
+    border-radius: 3px ;
+    margin-top: 10px;
+    width: 110px;
+    height: 25px;
+    text-align: left;
+}
+
+.click {
+    background-color: #007F00;
+    border: #007F00;
+}
+
+.mail {
+    background-color: #FEA400;
+    border: #FEA400;
+}
+
+button:hover {
+    cursor: pointer;
+}

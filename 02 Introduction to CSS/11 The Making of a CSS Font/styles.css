@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Righteous&display=swap');
+
+body {
+    background-color: #8B0000 ;
+    text-align: center;
+}
+h1,p {
+    color: white;
+}
+h1 {
+    font-family: "Righteous", sans-serif;
+    text-transform: uppercase;
+    
+}
+h2 {
+    color: #E0C184;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}

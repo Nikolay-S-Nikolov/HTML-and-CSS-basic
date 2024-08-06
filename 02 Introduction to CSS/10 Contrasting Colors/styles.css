@@ -6,3 +6,13 @@ article {
     color: white;
     text-indent: 25px;
 }
+
+article img{
+    max-width: 60px;
+}
+
+article h3{
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
